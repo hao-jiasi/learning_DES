@@ -1,0 +1,34 @@
+# OS and system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Environments and caches
+.env
+.venv/
+venv/
+__pycache__/
+.Rhistory
+.RData
+.Rproj.user/
+
+# IDE/editor settings
+.idea/
+.vscode/
+*.code-workspace
+
+# Build/output directories
+build/
+dist/
+*.egg-info/
+
+# Data file
+*.sav
+*.rds
+*.RData
+*.csv
+
